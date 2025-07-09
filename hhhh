@@ -1,0 +1,37 @@
+{
+
+    "name": "my-whatsapp-bot",
+
+    "version": "1.0.0",
+
+    "description": "Bot WhatsApp sederhana dengan Baileys.",
+
+    "main": "index.js",
+
+    "scripts": {
+
+        "start": "node index.js"
+
+    },
+
+    "author": "Your Name",
+
+    "license": "MIT",
+
+    "dependencies": {
+
+        "@hapi/boom": "^10.0.1",
+
+        "awesome-phonenumber": "^5.10.0",
+
+        "@whiskeysockets/baileys": "latest",
+
+        "chalk": "^4.1.2",
+
+        "pino": "^8.1.0",
+
+        "qrcode-terminal": "^0.12.0"
+
+    }
+
+}
